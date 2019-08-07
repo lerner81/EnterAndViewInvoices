@@ -1,0 +1,10 @@
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe.config
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.pdb
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csprojAssemblyReference.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.EnterInvoices.resources
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.Properties.Resources.resources
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.GenerateResource.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.CoreCompileInputs.cache
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.exe
+C:\Users\malgr\OneDrive\Documents\CSCI\C#\lab8\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.pdb
